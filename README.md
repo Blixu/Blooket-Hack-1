@@ -5,3 +5,5 @@ Click on the file of whitch ever hack you need, then highlight the script and dr
 All credits go to -@glixzzy
 
 Copy made by FieryHorizon.
+
+Updated for the new cps header on blooket.
