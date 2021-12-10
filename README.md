@@ -3,6 +3,6 @@
 
 All credits go to - @glixzzy
 
-Copy made by FieryHorizon.
+Copy made by me.
 
 Updated for the new cps header on blooket.
