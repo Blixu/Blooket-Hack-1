@@ -1,5 +1,5 @@
 # Blooket-Hack
-![image](https://user-images.githubusercontent.com/94643594/145605808-ea8b5599-c08a-4a32-a2d6-f81f79684569.png)
+![image](https://user-images.githubusercontent.com/94643594/145606022-8e983a3a-be71-48de-9d78-8c48b2e2f699.png)
 
 All credits go to - @glixzzy
 
